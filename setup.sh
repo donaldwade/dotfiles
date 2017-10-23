@@ -12,4 +12,4 @@ mkdir -p ~/.config
 cp -r tig ~/.config
 cp .vimrc ~
 cp .tmux.conf ~
-cp ~/.config/tig-colors-neonwolf-256.tigrc .tigrc
+cp ~/.config/tig/tig-colors-neonwolf-256.tigrc .tigrc
